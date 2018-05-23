@@ -196,6 +196,8 @@ Linear probing is a scheme in computer programming for resolving collisions in h
 
 ### Probability of collison
 
+Can obtain equations from: https://en.wikipedia.org/wiki/Birthday_problem
+
 ### MD2, MD4 and MD5 (Message Digest algorithms)
 
 - MD2 and MD4 are one way hash functions
